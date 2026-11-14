@@ -1,6 +1,6 @@
 import type { Game } from '../types/Game';
 
-const API_URL = 'http://localhost:8080/api/games';
+const API_URL = `${import.meta.env.VITE_API_URL}/api/games`;
 
 export const getGames = async (): Promise<Game[]> => {
 
