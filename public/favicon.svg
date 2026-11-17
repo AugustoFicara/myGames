@@ -1,1 +1,91 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="46" fill="none" viewBox="0 0 48 46"><path fill="#863bff" d="M25.946 44.938c-.664.845-2.021.375-2.021-.698V33.937a2.26 2.26 0 0 0-2.262-2.262H10.287c-.92 0-1.456-1.04-.92-1.788l7.48-10.471c1.07-1.497 0-3.578-1.842-3.578H1.237c-.92 0-1.456-1.04-.92-1.788L10.013.474c.214-.297.556-.474.92-.474h28.894c.92 0 1.456 1.04.92 1.788l-7.48 10.471c-1.07 1.498 0 3.579 1.842 3.579h11.377c.943 0 1.473 1.088.89 1.83L25.947 44.94z" style="fill:#863bff;fill:color(display-p3 .5252 .23 1);fill-opacity:1"/><mask id="a" width="48" height="46" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha"><path fill="#000" d="M25.842 44.938c-.664.844-2.021.375-2.021-.698V33.937a2.26 2.26 0 0 0-2.262-2.262H10.183c-.92 0-1.456-1.04-.92-1.788l7.48-10.471c1.07-1.498 0-3.579-1.842-3.579H1.133c-.92 0-1.456-1.04-.92-1.787L9.91.473c.214-.297.556-.474.92-.474h28.894c.92 0 1.456 1.04.92 1.788l-7.48 10.471c-1.07 1.498 0 3.578 1.842 3.578h11.377c.943 0 1.473 1.088.89 1.832L25.843 44.94z" style="fill:#000;fill-opacity:1"/></mask><g mask="url(#a)"><g filter="url(#b)"><ellipse cx="5.508" cy="14.704" fill="#ede6ff" rx="5.508" ry="14.704" style="fill:#ede6ff;fill:color(display-p3 .9275 .9033 1);fill-opacity:1" transform="matrix(.00324 1 1 -.00324 -4.47 31.516)"/></g><g filter="url(#c)"><ellipse cx="10.399" cy="29.851" fill="#ede6ff" rx="10.399" ry="29.851" style="fill:#ede6ff;fill:color(display-p3 .9275 .9033 1);fill-opacity:1" transform="matrix(.00324 1 1 -.00324 -39.328 7.883)"/></g><g filter="url(#d)"><ellipse cx="5.508" cy="30.487" fill="#7e14ff" rx="5.508" ry="30.487" style="fill:#7e14ff;fill:color(display-p3 .4922 .0767 1);fill-opacity:1" transform="rotate(89.814 -25.913 -14.639)scale(1 -1)"/></g><g filter="url(#e)"><ellipse cx="5.508" cy="30.599" fill="#7e14ff" rx="5.508" ry="30.599" style="fill:#7e14ff;fill:color(display-p3 .4922 .0767 1);fill-opacity:1" transform="rotate(89.814 -32.644 -3.334)scale(1 -1)"/></g><g filter="url(#f)"><ellipse cx="5.508" cy="30.599" fill="#7e14ff" rx="5.508" ry="30.599" style="fill:#7e14ff;fill:color(display-p3 .4922 .0767 1);fill-opacity:1" transform="matrix(.00324 1 1 -.00324 -34.34 30.47)"/></g><g filter="url(#g)"><ellipse cx="14.072" cy="22.078" fill="#ede6ff" rx="14.072" ry="22.078" style="fill:#ede6ff;fill:color(display-p3 .9275 .9033 1);fill-opacity:1" transform="rotate(93.35 24.506 48.493)scale(-1 1)"/></g><g filter="url(#h)"><ellipse cx="3.47" cy="21.501" fill="#7e14ff" rx="3.47" ry="21.501" style="fill:#7e14ff;fill:color(display-p3 .4922 .0767 1);fill-opacity:1" transform="rotate(89.009 28.708 47.59)scale(-1 1)"/></g><g filter="url(#i)"><ellipse cx="3.47" cy="21.501" fill="#7e14ff" rx="3.47" ry="21.501" style="fill:#7e14ff;fill:color(display-p3 .4922 .0767 1);fill-opacity:1" transform="rotate(89.009 28.708 47.59)scale(-1 1)"/></g><g filter="url(#j)"><ellipse cx=".387" cy="8.972" fill="#7e14ff" rx="4.407" ry="29.108" style="fill:#7e14ff;fill:color(display-p3 .4922 .0767 1);fill-opacity:1" transform="rotate(39.51 .387 8.972)"/></g><g filter="url(#k)"><ellipse cx="47.523" cy="-6.092" fill="#7e14ff" rx="4.407" ry="29.108" style="fill:#7e14ff;fill:color(display-p3 .4922 .0767 1);fill-opacity:1" transform="rotate(37.892 47.523 -6.092)"/></g><g filter="url(#l)"><ellipse cx="41.412" cy="6.333" fill="#47bfff" rx="5.971" ry="9.665" style="fill:#47bfff;fill:color(display-p3 .2799 .748 1);fill-opacity:1" transform="rotate(37.892 41.412 6.333)"/></g><g filter="url(#m)"><ellipse cx="-1.879" cy="38.332" fill="#7e14ff" rx="4.407" ry="29.108" style="fill:#7e14ff;fill:color(display-p3 .4922 .0767 1);fill-opacity:1" transform="rotate(37.892 -1.88 38.332)"/></g><g filter="url(#n)"><ellipse cx="-1.879" cy="38.332" fill="#7e14ff" rx="4.407" ry="29.108" style="fill:#7e14ff;fill:color(display-p3 .4922 .0767 1);fill-opacity:1" transform="rotate(37.892 -1.88 38.332)"/></g><g filter="url(#o)"><ellipse cx="35.651" cy="29.907" fill="#7e14ff" rx="4.407" ry="29.108" style="fill:#7e14ff;fill:color(display-p3 .4922 .0767 1);fill-opacity:1" transform="rotate(37.892 35.651 29.907)"/></g><g filter="url(#p)"><ellipse cx="38.418" cy="32.4" fill="#47bfff" rx="5.971" ry="15.297" style="fill:#47bfff;fill:color(display-p3 .2799 .748 1);fill-opacity:1" transform="rotate(37.892 38.418 32.4)"/></g></g><defs><filter id="b" width="60.045" height="41.654" x="-19.77" y="16.149" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="7.659"/></filter><filter id="c" width="90.34" height="51.437" x="-54.613" y="-7.533" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="7.659"/></filter><filter id="d" width="79.355" height="29.4" x="-49.64" y="2.03" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="e" width="79.579" height="29.4" x="-45.045" y="20.029" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="f" width="79.579" height="29.4" x="-43.513" y="21.178" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="g" width="74.749" height="58.852" x="15.756" y="-17.901" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="7.659"/></filter><filter id="h" width="61.377" height="25.362" x="23.548" y="2.284" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="i" width="61.377" height="25.362" x="23.548" y="2.284" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="j" width="56.045" height="63.649" x="-27.636" y="-22.853" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="k" width="54.814" height="64.646" x="20.116" y="-38.415" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="l" width="33.541" height="35.313" x="24.641" y="-11.323" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="m" width="54.814" height="64.646" x="-29.286" y="6.009" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="n" width="54.814" height="64.646" x="-29.286" y="6.009" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="o" width="54.814" height="64.646" x="8.244" y="-2.416" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="p" width="39.409" height="43.623" x="18.713" y="10.588" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter></defs></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 220" width="256" height="220" fill="none">
+  <defs>
+    <!-- Gradiente principal del joystick -->
+    <linearGradient id="padGrad" x1="25" y1="35" x2="205" y2="175" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#A3FF33" />
+      <stop offset="45%" stop-color="#22C55E" />
+      <stop offset="85%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#0284C7" />
+    </linearGradient>
+
+    <!-- Brillo interior del cuerpo -->
+    <linearGradient id="innerHighlight" x1="40" y1="40" x2="120" y2="150" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#D9F99D" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#22C55E" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Gradiente del tilde verde -->
+    <linearGradient id="checkGrad" x1="125" y1="75" x2="225" y2="165" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#BEF264" />
+      <stop offset="50%" stop-color="#4ADE80" />
+      <stop offset="100%" stop-color="#0D9488" />
+    </linearGradient>
+
+    <!-- Sombra suave -->
+    <filter id="dropShadow" x="-10%" y="-10%" width="125%" height="125%">
+      <feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#020617" flood-opacity="0.45" />
+    </filter>
+  </defs>
+
+  <g filter="url(#dropShadow)">
+    <!-- Gatillos superiores L1 / R1 -->
+    <path d="M56 36 C56 26, 86 26, 88 36 Z" fill="#22C55E" stroke="#080D2B" stroke-width="7" stroke-linejoin="round" />
+    <path d="M168 36 C170 26, 200 26, 200 36 Z" fill="#0EA5E9" stroke="#080D2B" stroke-width="7" stroke-linejoin="round" />
+
+    <!-- Cuerpo principal del joystick -->
+    <path d="M58 36 
+             C42 36, 30 48, 26 70 
+             L16 128 
+             C12 152, 26 172, 46 172 
+             C60 172, 70 160, 82 142 
+             L174 142 
+             C186 160, 196 172, 210 172 
+             C230 172, 244 152, 240 128 
+             L230 70 
+             C226 48, 214 36, 198 36 
+             L164 36 
+             C156 36, 152 44, 144 44 
+             L112 44 
+             C104 44, 100 36, 92 36 Z" fill="url(#padGrad)" stroke="#080D2B" stroke-width="9" stroke-linejoin="round" />
+
+    <!-- Brillo izquierdo del agarre -->
+    <path d="M46 54 C38 66, 31 102, 28 134 C27 144, 33 152, 41 152" stroke="url(#innerHighlight)" stroke-width="6" stroke-linecap="round" />
+
+    <!-- Panel central / Touchpad -->
+    <path d="M98 40 L158 40 L152 62 C150 67, 145 70, 140 70 L116 70 C111 70, 106 67, 104 62 Z" fill="#86EFAC" fill-opacity="0.45" stroke="#080D2B" stroke-width="5" stroke-linejoin="round" />
+
+    <!-- Cruceta (D-Pad) -->
+    <path d="M62 66 H76 V80 H90 V94 H76 V108 H62 V94 H48 V80 H62 Z" fill="#4ADE80" stroke="#080D2B" stroke-width="5.5" stroke-linejoin="round" />
+
+    <!-- Botones Start / Select -->
+    <rect x="104" y="86" width="12" height="7" rx="3.5" fill="#22C55E" stroke="#080D2B" stroke-width="4.5" />
+    <path d="M136 86 L146 89.5 L136 93 Z" fill="#22C55E" stroke="#080D2B" stroke-width="4.5" stroke-linejoin="round" />
+
+    <!-- Stick analógico izquierdo -->
+    <circle cx="96" cy="118" r="14" fill="#10B981" stroke="#080D2B" stroke-width="5.5" />
+    <circle cx="94" cy="116" r="5" fill="#A7F3D0" fill-opacity="0.6" />
+
+    <!-- Botones de acción (ABXY) -->
+    <circle cx="184" cy="68" r="9.5" fill="#A3FF33" stroke="#080D2B" stroke-width="5" />
+    <circle cx="166" cy="86" r="9.5" fill="#38BDF8" stroke="#080D2B" stroke-width="5" />
+    <circle cx="202" cy="86" r="9.5" fill="#A855F7" stroke="#080D2B" stroke-width="5" />
+    <circle cx="184" cy="104" r="9.5" fill="#22C55E" stroke="#080D2B" stroke-width="5" />
+
+    <!-- Tilde / Checkmark superpuesto -->
+    <path d="M132 118 
+             L162 148 
+             L226 80 
+             C231 75, 239 75, 244 80 
+             L251 87 
+             C256 92, 256 100, 251 105 
+             L171 189 
+             C166 194, 158 194, 153 189 
+             L114 148 
+             C109 143, 109 135, 114 130 
+             L121 123 
+             C124 119, 128 117, 132 118 Z" fill="url(#checkGrad)" stroke="#080D2B" stroke-width="9" stroke-linejoin="round" />
+
+    <!-- Reflejo superior del tilde -->
+    <path d="M165 156 L232 86" stroke="#ECFCCB" stroke-width="4" stroke-linecap="round" stroke-opacity="0.75" />
+  </g>
+</svg>

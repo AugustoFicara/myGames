@@ -1,5 +1,6 @@
 package my.projects.mygames.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 import java.time.LocalDate;
 
@@ -30,6 +31,11 @@ public class Game {
     private String coverUrl;
 
     private LocalDate dateCompleted;
+
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "usuario_id")
+    @JsonIgnore
+    private Usuario usuario;
 
     public Long getId() {
         return id;

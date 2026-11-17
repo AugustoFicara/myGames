@@ -142,7 +142,7 @@ export default function MainMenu() {
             <nav className="navbar navbar-expand-lg border-bottom mb-4" style={{ backgroundColor: '#1a1a1a' }}>
                 <div className="container">
                     <span className="navbar-brand fw-bold text-white">
-                        MyGames <span className="text-success">2027</span>
+                        myGames <span className="text-success">2027</span>
                     </span>
                     <div className="d-flex flex-grow-1 mx-lg-4 my-2 my-lg-0">
                         <input
